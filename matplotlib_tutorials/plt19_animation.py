@@ -9,10 +9,10 @@ Please note, this script is for python3+.
 If you are using python2+, please modify it accordingly.
 
 Tutorial reference:
-http://matplotlib.org/examples/animation/simple_anim.html
+https://matplotlib.org/examples/animation/simple_anim.html
 
 More animation example code:
-http://matplotlib.org/examples/animation/
+https://matplotlib.org/examples/animation/
 """
 
 import numpy as np
